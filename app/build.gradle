@@ -46,6 +46,8 @@ dependencies {
     //引导页
 //    compile 'com.github.yylxy.yyUtils4:guidance_activity:1.1.3'
 
+//    compile 'com.github.yylxy.YYUtils:banner:1.1.2'
+
     /*=====================================================本地libs=========================================================*/
     //dialog联动地址选择
     compile project(':dialog_select_address')
